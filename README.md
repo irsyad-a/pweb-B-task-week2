@@ -73,9 +73,10 @@ Website ini memuat informasi seperti:
 
 ---
 
-##  Struktur Folder
+## Struktur Folder
 
-.
+```text
+porto-icad/
 ├── index.html
 ├── README.md
 ├── css/
@@ -97,6 +98,7 @@ Website ini memuat informasi seperti:
 │       └── youtube.svg
 └── pdf/
     └── cv.pdf
+```
 
 ---
 
